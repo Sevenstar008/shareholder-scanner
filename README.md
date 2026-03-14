@@ -32,5 +32,5 @@
 #### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shareholder-scanner.git
+git clone https://github.com/sevenstar008/shareholder-scanner.git
 cd shareholder-scanner
